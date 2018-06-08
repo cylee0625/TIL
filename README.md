@@ -8,5 +8,5 @@ Hello! github
 * Restful
 
 ## Update 201806081428
-* calss
-* function
+* list
+* class
